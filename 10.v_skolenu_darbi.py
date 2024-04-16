@@ -11,3 +11,5 @@
 #5 Lielanse Dora Līva
 
 #6 Stramkale Emīlija
+
+ print(cos(radians(60)+fmod(15,2)))
